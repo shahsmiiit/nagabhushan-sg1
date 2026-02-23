@@ -1,0 +1,26 @@
+order_id,customer_name,city,email,product_name,product_category,sale_date,quantity,unit_price,load_timestamp
+ORD013,Priya Sharma,Mumbai,priya.sharma@email.com,Laptop,Electronics,2024-07-15,1,1200,2024-07-16 10:30:00
+ORD014,Amit Verma,NULL,amit.verma@sample.org,T-Shirt,Clothing,2025-03-20,3,25,2025-03-21 14:45:00
+ORD015,Sneha Patel,Bangalore,sneha.patel@work.net,Headphones,Electronics,2024-11-01,2,150,2024-11-02 09:15:00
+ORD016,Rajesh Kumar,Chennai,rajesh.kumar@data.info,Jeans,Clothing,2025-01-25,1,75,2025-01-26 18:00:00
+ORD017,Divya Singh,Hyd,divya.singh@test.com,Smartphone,Electronics,2024-09-10,1,900,2024-09-11 12:00:00
+ORD018,Vikram Reddy,Kolkata,vikram.reddy@domain.com,Dress,Clothing,2025-04-05,2,60,2025-04-06 20:30:00
+ORD019,Anjali Gupta,Mumbai,anjali.gupta@provider.net,Keyboard,Electronics,2024-12-22,1,80,2024-12-23 11:45:00
+ORD020,Suresh Yadav,Delhi,suresh.yadav@service.org,Shirt,Clothing,2025-02-18,4,30,2025-02-19 16:00:00
+ORD021,Meena Nair,Bangalore,meena.nair@access.com,Charger,Electronics,2024-08-01,1,35,2024-08-02 08:30:00
+ORD022,Karthik Pillai,NY,karthik.pillai@online.info,Skirt,Clothing,2025-05-10,2,45,2025-05-11 13:15:00
+ORD023,Shalini Joshi,Hyderabad,"shalini.joshi@email.net ",Tablet,Electronics,2024-10-28,1,350,2024-10-29 19:00:00
+ORD024,Rohan Verma,Kolkata,rohan.verma@sample.com,Sweater,Beauty,2025-01-05,1,55,2025-01-06 10:00:00
+ORD025,Deepika Menon,Mumbai,deepika.menon@work.org,Mouse,Electronics,2024-06-12,2,20,2024-06-13 15:45:00
+ORD026,Aryan Singh,Delhi,aryan.singh@data.net,Jacket,Clothing,2025-03-30,1,90,2025-03-31 21:15:00
+ORD027,Pooja Sharma,Bangalore,pooja.sharma@test.info,Smartwatch,Electronics,2024-11-20,1,250,2024-11-21 07:00:00
+ORD028,Vikrant Kumar,Chennai,vikrant.kumar@domain.net,Trousers,Clothing,2025-04-15,2,65,2025-04-16 12:30:00
+ORD029,Nisha Patel,Hyd,nisha.patel@provider.com,Monitor,Electronics,2024-07-01,1,300,2024-07-02 17:45:00
+ORD030,Siddharth Reddy,Kolkata,siddharth.reddy@service.net,Blouse,Clothing,2025-02-25,3,40,2025-02-26 09:00:00
+ORD031,Kavya Gupta,Mumbai,kavya.gupta@access.org,Webcam,Electronics,2024-09-18,1,45,2024-09-19 14:15:00
+ORD032,Rohit Yadav,Delhi,rohit.yadav@online.com,Socks,Clothing,2025-05-01,5,10,2025-05-02 22:00:00
+ORD033,Ananya Nair,Bangalore,ananya.nair@email.info,Printer,Electronics,2024-12-05,1,180,2024-12-06 11:00:00
+ORD038,Arjun Pillai,Chennai,arjun.pillai@sample.net,Belt,Clothing,2025-01-15,2,30,2025-01-16 16:45:00
+ORD039,Siya Joshi,Hyd,siya.joshi@work.com,Speaker,Electronics,2024-08-22,2,70,2024-08-23 08:00:00
+ORD040,Vivaan Verma,NY,vivaan.verma@data.org,Gloves,Beauty,2025-03-10,1,20,2025-03-11 19:30:00
+ORD042,Sam Verma,NY,sam.verma@data.org," Speaker"," Electronics",2025-04-10,1,20,2025-03-11 19:30:00
